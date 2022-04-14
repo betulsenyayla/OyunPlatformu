@@ -1,1 +1,1 @@
-Multiple activity ile oluşturulmuş, 10 adet oyun içeren bir oyun platformu
+10 adet oyun içeren, multiple activity ile oluşturulmuş bir oyun platformu 
